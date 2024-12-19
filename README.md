@@ -2,6 +2,10 @@
 
 ###
 
+<iframe src="https://giphy.com/embed/Cmr1OMJ2FN0B2" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-Cmr1OMJ2FN0B2">via GIPHY</a></p>
+
+###
+
 <p align="left">It's your friendly neighborhood programming guy, Shaheer__ Or you can call me Zarel!</p>
 
 ###
