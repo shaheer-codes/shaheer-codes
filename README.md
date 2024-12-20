@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shaheer-codes/shaheer-codes/master/ezgif-5-18dda1e609.gif" width="480" height="480" />
+<img src="https://raw.githubusercontent.com/shaheer-codes/shaheer-codes/main/ezgif-5-18dda1e609.gif" width="480" height="480" />
 
 ###
 
